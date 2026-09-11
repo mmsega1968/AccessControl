@@ -1,0 +1,10 @@
+{
+  "ivanov": {
+    "full_name": "Ivanov \u0424\u0418\u041e",
+    "email": "ivanov@example.com"
+  },
+  "petrov": {
+    "full_name": "Petrov \u0424\u0418\u041e",
+    "email": "petrov@example.com"
+  }
+}

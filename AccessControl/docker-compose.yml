@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: postgres16
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: accesscontrol
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./Docker/postgres/data:/var/lib/postgresql/data
+

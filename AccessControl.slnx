@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AccessControl/AccessControl.csproj" />
+  <Folder Name="/Элементы решения/">
+    <File Path="appsettings.shared.json" />
+  </Folder>
+  <Project Path="AccessControl.Migrator/AccessControl.Migrator.csproj" Id="0041c947-c07c-4dd2-9d98-fff27deb6c08" />
+</Solution>

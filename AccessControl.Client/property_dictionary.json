@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fa4e0fb5-e134-495b-9d77-ec897174d009",
+    "propertyCode": "full_name",
+    "title": "\u0424\u0418\u041e",
+    "type": "string",
+    "isRequired": true,
+    "defaultValue": "",
+    "description": "\u041f\u043e\u043b\u043d\u043e\u0435 \u0438\u043c\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f"
+  },
+  {
+    "id": "8c7b2e88-5d55-48c1-a698-8f0db6525089",
+    "propertyCode": "email",
+    "title": "Email",
+    "type": "string",
+    "isRequired": false,
+    "defaultValue": "",
+    "description": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0430\u044f \u043f\u043e\u0447\u0442\u0430"
+  }
+]

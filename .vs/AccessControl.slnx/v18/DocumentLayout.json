@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVELOPMENT\\AccessControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\rolemodel\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\rolemodel\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\services\\rolemodel\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\services\\rolemodel\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\rpcmodels\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\rpcmodels\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\services\\rolemodel\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\services\\rolemodel\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\rolemodel\\rightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\rolemodel\\rightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\data\\nestedtransactionconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\data\\nestedtransactionconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\rpcmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\rpcmodels\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\rolemodel\\rolemodelhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\rolemodel\\rolemodelhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\rolemodel\\rolerightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\rolemodel\\rolerightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\controllers\\rolemodel\\roleincludescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\controllers\\rolemodel\\roleincludescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\rpcmodels\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\rpcmodels\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\websocketgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\websocketgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\data\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\data\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\websocketrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\websocketrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\iwebsocketgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\iwebsocketgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|d:\\development\\accesscontrol\\accesscontrol\\core\\websockets\\rpcmodels\\propertydictionaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A3016A-37A9-B025-9303-D17666E937BB}|AccessControl\\AccessControl.csproj|solutionrelative:accesscontrol\\core\\websockets\\rpcmodels\\propertydictionaryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleRightsController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleRightsController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\RoleModel\\RoleRightsController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleRightsController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\RoleModel\\RoleRightsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:54:25.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RolesController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\RoleModel\\RolesController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RolesController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\RoleModel\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:53:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Program.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Program.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Program.cs",
+              "RelativeToolTip": "AccessControl\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:25:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\Services\\RoleModel\\IRoleService.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\Services\\RoleModel\\IRoleService.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\Services\\RoleModel\\IRoleService.cs",
+              "RelativeToolTip": "AccessControl\\Core\\Services\\RoleModel\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:10:56.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NestedTransactionConnection.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Data\\NestedTransactionConnection.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Data\\NestedTransactionConnection.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Data\\NestedTransactionConnection.cs",
+              "RelativeToolTip": "AccessControl\\Data\\NestedTransactionConnection.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAqwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T14:06:44.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SyncController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\SyncController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\SyncController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\SyncController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\SyncController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:26:26.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\Services\\RoleModel\\RoleService.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\Services\\RoleModel\\RoleService.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\Services\\RoleModel\\RoleService.cs",
+              "RelativeToolTip": "AccessControl\\Core\\Services\\RoleModel\\RoleService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T14:08:30.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleModelHistoryController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleModelHistoryController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\RoleModel\\RoleModelHistoryController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleModelHistoryController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\RoleModel\\RoleModelHistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:55:02.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\RoleDto.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\RpcModels\\RoleDto.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\RoleDto.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\RpcModels\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:58:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RightsController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RightsController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\RoleModel\\RightsController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RightsController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\RoleModel\\RightsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:54:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleIncludesController.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleIncludesController.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Controllers\\RoleModel\\RoleIncludesController.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Controllers\\RoleModel\\RoleIncludesController.cs",
+              "RelativeToolTip": "AccessControl\\Controllers\\RoleModel\\RoleIncludesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:54:04.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersResponse.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\UsersResponse.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\RpcModels\\UsersResponse.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\UsersResponse.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\RpcModels\\UsersResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:17:51.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\UserDto.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\RpcModels\\UserDto.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\UserDto.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\RpcModels\\UserDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:16:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebSocketGateway.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\WebSocketGateway.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\WebSocketGateway.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\WebSocketGateway.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\WebSocketGateway.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:22:41.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IWebSocketGateway.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\IWebSocketGateway.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\IWebSocketGateway.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\IWebSocketGateway.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\IWebSocketGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:22:55.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PropertyDictionaryResponse.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\PropertyDictionaryResponse.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\RpcModels\\PropertyDictionaryResponse.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\RpcModels\\PropertyDictionaryResponse.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\RpcModels\\PropertyDictionaryResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:16:01.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Records.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Data\\Records.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Data\\Records.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Data\\Records.cs",
+              "RelativeToolTip": "AccessControl\\Data\\Records.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:25:47.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebSocketRpcService.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\WebSocketRpcService.cs",
+              "RelativeDocumentMoniker": "AccessControl\\Core\\WebSockets\\WebSocketRpcService.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\AccessControl\\AccessControl\\Core\\WebSockets\\WebSocketRpcService.cs",
+              "RelativeToolTip": "AccessControl\\Core\\WebSockets\\WebSocketRpcService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:23:49.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
